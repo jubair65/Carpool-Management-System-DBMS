@@ -87,5 +87,4 @@ This diagram shows the conceptual model and relationships between entities.
 This diagram shows the final physical database schema with tables, columns, data types, and foreign key relationships.
 
 ![Schema Diagram](diagrams/Schema_Diagram.png)
-write this correctly because picture is not showing and make it more stylish 
-add some emojis as needed
+
